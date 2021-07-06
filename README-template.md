@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/preview-card-anHnftGvA)
-- [Live Site URL](https://liam-mcallister.github.io/preview-card/)
+- [Solution URL](https://www.frontendmentor.io/solutions/faq-accordion-Ksa6-ioOy)
+- [Live Site URL](https://liam-mcallister.github.io/faq-accordion/)
 
 ## My process
 
